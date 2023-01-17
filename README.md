@@ -8,7 +8,6 @@
     [LinkedIn](https://www.linkedin.com/in/sriharsha-velicheti-0794351b2/): sriharsha velicheti
     
 
-
-(https://raw.githubusercontent.com/sriharsha8991/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev)](https://git.io/awesome-stats-card)
  
 
