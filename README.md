@@ -8,6 +8,6 @@
     [LinkedIn](https://www.linkedin.com/in/sriharsha-velicheti-0794351b2/): sriharsha velicheti
     
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sriharsha8991)](https://git.io/awesome-stats-card)
  
 
