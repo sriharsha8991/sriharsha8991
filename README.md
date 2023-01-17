@@ -8,9 +8,7 @@
     [LinkedIn](https://www.linkedin.com/in/sriharsha-velicheti-0794351b2/): sriharsha velicheti
     
 
-[![Sriharsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriharsha8991)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](![](https://raw.githubusercontent.com/sriharsha8991/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+(![](https://raw.githubusercontent.com/sriharsha8991/github-stats/master/generated/overview.svg#gh-dark-mode-only))
  
 
