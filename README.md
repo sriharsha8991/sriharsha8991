@@ -9,6 +9,6 @@
     
 
 
-(![](https://raw.githubusercontent.com/sriharsha8991/github-stats/master/generated/overview.svg#gh-dark-mode-only))
+(https://raw.githubusercontent.com/sriharsha8991/github-stats/master/generated/overview.svg#gh-dark-mode-only)
  
 
