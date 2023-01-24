@@ -11,4 +11,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sriharsha8991&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=20btrcd019)](https://github.com/KnlnKS/leetcode-stats)
+
