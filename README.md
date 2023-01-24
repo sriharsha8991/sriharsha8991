@@ -11,4 +11,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sriharsha8991&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-![Leetcode Stats](https://leetcode.com/20btrcd019/?ext=activity)
+![Leetcode Stats](https://leetcard.com/20btrcd019/?ext=activity)
