@@ -9,6 +9,5 @@
     
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sriharsha8991?cardType=github&preferLogin=false)](https://git.io/awesome-stats-card)[![GitHub Streak](https://streak-stats.demolab.com?user=sriharsha8991&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=20btrcd019)](https://github.com/KnlnKS/leetcode-stats)
+[![Sriharsha's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=20btrcd019&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
