@@ -10,3 +10,5 @@
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sriharsha8991?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sriharsha8991&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
+![Leetcode Stats](https://leetcode.com/20btrcd019/?ext=activity)
