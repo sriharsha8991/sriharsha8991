@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriharsha8991&label=Profile%20views&color=0e75b6&style=flat" alt="sriharsha8991" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriharsha8991" alt="sriharsha8991" /></a> </p>
+
 
 - 🔭 I’m currently working on [AI Based photo Editor](https://github.com/sriharsha8991/AI-Photo-Editor)
 
 - 🌱 I’m currently learning **web frameworks, deep learning**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriharsha8991" alt="sriharsha8991" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
