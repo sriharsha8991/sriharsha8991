@@ -9,6 +9,16 @@
 
 - 🌱 I’m currently learning **web frameworks, deep learning**
 
+name: Full-year calendar
+uses: sriharsha8991/Readme.md
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sriharsha-velicheti-0794351b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sriharsha-velicheti-0794351b2/" height="30" width="40" /></a>
