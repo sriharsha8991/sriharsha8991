@@ -9,14 +9,14 @@
 
 - 🌱 I’m currently learning **web frameworks, deep learning**
 
-name: Full-year calendar
-uses: sriharsha8991/Readme.md
+name: Half-year calendar
+uses: lowlighter/metrics@latest
 with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
+  filename: metrics.plugin.isocalendar.svg
   token: ${{ secrets.METRICS_TOKEN }}
   base: ""
   plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
+
 
 
 <h3 align="left">Connect with me:</h3>
