@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriharsha8991" alt="sriharsha8991" /></a> </p>
 
-- 🔭 I’m currently working on [AI Based photo Editor](https://github.com/sriharsha8991/AI-Photo-Editor)
+- 🔭 I’m currently working on **Planogramic Shelf compilance project.**
 
 - 🌱 I’m currently learning **web frameworks, deep learning**
 
