@@ -15,7 +15,7 @@
 
 <h3>🌟 About Me:</h3>
 <p>
-I am a passionate freelancer helping individuals leverage their technical skills through targeted training and project-based learning. I specialize in data science and am currently diving into the world of Generative AI and full-stack applications.
+I am a Data Scientist, AI engineer passionate freelancer helping individuals leverage their technical skills through targeted training and project-based learning. I specialize in data science and am currently diving into the world of Generative AI and full-stack applications.
 </p>
 
 <h3>🔨 Currently Working On:</h3>
