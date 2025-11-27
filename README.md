@@ -1,70 +1,209 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#4CAF50;">Sriharsha Velicheti</span></h1>
-<h3 align="center">🚀 Generative AI Engineer | Data Scientist | Tech Educator</h3>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sriharsha%20Velicheti&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Tech%20Educator&descAlignY=55&descSize=18"/>
+
+<!-- BADGES ROW -->
+<p align="center">
+  <a href="https://sriharsha8991.github.io/portfolio-frontend/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-667eea?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=sriharsha8991&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <a href="mailto:srih8991@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-Available-00c853?style=for-the-badge" alt="Available for Hire"/>
+  </a>
+</p>
+
+<!-- TYPING SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+AI+Solutions+That+Matter+%F0%9F%9A%80;From+Data+to+Decisions%2C+One+Model+at+a+Time+%F0%9F%93%8A;Turning+Ideas+into+Intelligent+Systems+%F0%9F%92%A1" alt="Typing SVG"/>
+  </a>
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="28" /> About Me
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 Sriharsha Velicheti</h3>
+      <p>
+        <i>Generative AI Engineer & Data Scientist based in India 🇮🇳</i>
+      </p>
+      <p>
+        I am passionate about <b>bridging AI innovation with real-world impact</b>. My work focuses on building intelligent systems that turn data into actionable decisions.
+      </p>
+      <br/>
+      <b>🚀 Current Focus</b>
+      <ul>
+        <li>🔭 Building <b>Multimodal RAG Applications</b></li>
+        <li>🌱 Mastering <b>Full Stack Development</b></li>
+        <li>🤝 Open to <b>AI/ML Collaborations</b></li>
+      </ul>
+      <b>🎯 2025 Goals</b>
+      <ul>
+        <li>✨ Launch impactful open-source AI projects</li>
+        <li>🏗️ Build production-ready AI applications</li>
+        <li>📚 Mentor aspiring AI engineers</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Coding"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" /> Connect With Me
 
 <p align="center">
-  <a href="https://sriharsha8991.github.io/MyPortfolio.github.io/portfolio.html">
-    <img src="https://img.shields.io/badge/-🌐 Explore%20My%20Portfolio-0A66C2?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Portfolio">
+  <a href="https://linkedin.com/in/sriharsha-velicheti-0794351b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sriharsha8991&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views">
+  &nbsp;
+  <a href="https://instagram.com/sriharsha_velicheti" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/srih8991" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  &nbsp;
+  <a href="https://www.leetcode.com/20btrcd019" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="mailto:srih8991@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
 
-## 🌟 About Me  
-💡 **Generative AI Engineer & Data Scientist** with a passion for building intelligent systems that **bridge AI innovation with real-world applications**.  
-🎯 I help individuals & businesses leverage **AI-powered solutions** through targeted training, project-based learning, and scalable applications.  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" /> Tech Stack
 
-- 🔭 **Currently Working On:** Multimodal RAG Applications (Generative AI)  
-- 🌱 **Currently Learning:** Full Stack Development (Backend Focus)  
-- 💬 **Ask Me About:** AI, RAG Pipelines, Python, Backend Development, Data Science  
-- 🎯 **2025 Goals:**  
-  - Build impactful open-source AI projects  
-  - Master advanced backend architectures  
-  - Enhance portfolio with production-ready AI apps  
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
----
-
-## 📫 Connect With Me  
+### 🐍 Languages
 <p>
-  <a href="https://linkedin.com/in/sriharsha-velicheti-0794351b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/sriharsha_velicheti" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/srih8991" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64.svg?&style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-  <a href="https://www.leetcode.com/20btrcd019" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
----
+</td>
+<td align="center" width="50%">
 
-## 🛠️ Tech Stack  
+### 🤖 AI / ML
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-005C7A.svg?style=for-the-badge&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 📊 Data Science
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+</td>
+<td align="center" width="50%">
+
+### 🗄️ Backend & DB
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 📌 Featured Projects  
-| Project | Description |
-|---------|-------------|
-| **[AI Healthcare Assistant](#)** | Multimodal RAG-based healthcare chatbot with appointment booking, lab result interpretation & lifestyle coaching. |
-| **[Resume Filtering System](#)** | AI-powered candidate screening tool using NLP & semantic search. |
-| **[PDF Data Extraction & Processing](#)** | Extracts structured multilingual data from large PDFs & enables collaborative review workflows. |
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Featured Projects
 
----
-
-## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharsha8991&layout=compact&theme=radical" height="150">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriharsha8991&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriharsha8991&theme=radical" height="150">
+
+| 🎯 Project | 📝 Description | 🛠️ Tech |
+|:-----------|:--------------|:--------|
+| **[🌐 Portfolio Frontend](https://github.com/sriharsha8991/portfolio-frontend)** | Modern developer portfolio showcasing projects, skills, and experience — built with a responsive UI and smooth navigation. | `HTML` `CSS` `JavaScript` |
+| **[🏥 Health Risk Prediction App](https://github.com/sriharsha8991/Health_Risk_Prediction_App)** | Flask-based web application designed to predict health risks based on lifestyle choices and conditions using ML. | `Python` `Flask` `ML` |
+| **[🔍 Resume Tracker](https://github.com/sriharsha8991/Resume-Tracker)** | Streamlit-based application designed to simplify the recruitment process for HR professionals to filter and analyze resumes. | `Python` `Streamlit` `NLP` |
+| **[📊 SyncAnalytica](https://github.com/sriharsha8991/syncanalytica)** | Interactive web-based tool to upload CSV/Excel files, analyze data, generate visual insights, and create professional reports. | `Python` `Pandas` `Streamlit` |
+| **[😊 Text to Emoji Converter](https://github.com/sriharsha8991/Text-to-Emoji-converter)** | Application built on top of Gemini 1.5 pro model to convert text to emojis. | `Python` `Gemini API` |
+| **[🎙️ Live API Web Console](https://github.com/sriharsha8991/live-api-web-console)** | React-based starter app for using the Live API over websockets with Gemini. | `TypeScript` `React` `Gemini API` |
+
 </div>
 
 ---
 
-💡 *"Turning ideas into impactful AI solutions, one commit at a time."*
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" /> GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sriharsha8991&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sriharsha8991&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharsha8991&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+</p>
+
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriharsha8991&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" /> GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sriharsha8991&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+</p>
+
+---
+
+<!-- SNAKE ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</p>
+
+---
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+<h3 align="center">
+  💡 <i>"Turning ideas into impactful AI solutions, one commit at a time."</i>
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge"/>
+</p>
