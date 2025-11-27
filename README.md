@@ -50,7 +50,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Coding"/>
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Developer"/>
     </td>
   </tr>
 </table>
@@ -164,7 +164,7 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sriharsha8991&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" alt="GitHub Stats"/>
   &nbsp;
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sriharsha8991&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=sriharsha8991&theme=github-dark-blue&hide_border=true" height="160" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
