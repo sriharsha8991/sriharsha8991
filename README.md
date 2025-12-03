@@ -184,22 +184,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sriharsha8991&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 </p>
 
----
-
-
-
----
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
-<h3 align="center">
-  💡 <i>"Turning ideas into impactful AI solutions, one commit at a time."</i>
-</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge"/>
