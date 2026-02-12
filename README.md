@@ -167,18 +167,20 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Featured Projects
-
+## ⭐ Featured Projects
 <div align="center">
 
 | 🎯 Project | 📝 Description | 🛠️ Tech |
 |:-----------|:--------------|:--------|
-| **[🌐 Portfolio Frontend](https://github.com/sriharsha8991/portfolio-frontend)** | Modern developer portfolio showcasing projects, skills, and experience — built with a responsive UI and smooth navigation. | `HTML` `CSS` `JavaScript` |
-| **[🏥 Health Risk Prediction App](https://github.com/sriharsha8991/Health_Risk_Prediction_App)** | Flask-based web application designed to predict health risks based on lifestyle choices and conditions using ML. | `Python` `Flask` `ML` |
-| **[🔍 Resume Tracker](https://github.com/sriharsha8991/Resume-Tracker)** | Streamlit-based application designed to simplify the recruitment process for HR professionals to filter and analyze resumes. | `Python` `Streamlit` `NLP` |
-| **[📊 SyncAnalytica](https://github.com/sriharsha8991/syncanalytica)** | Interactive web-based tool to upload CSV/Excel files, analyze data, generate visual insights, and create professional reports. | `Python` `Pandas` `Streamlit` |
-| **[😊 Text to Emoji Converter](https://github.com/sriharsha8991/Text-to-Emoji-converter)** | Application built on top of Gemini 1.5 pro model to convert text to emojis. | `Python` `Gemini API` |
-| **[🎙️ Live API Web Console](https://github.com/sriharsha8991/live-api-web-console)** | React-based starter app for using the Live API over websockets with Gemini. | `TypeScript` `React` `Gemini API` |
+| **📬 Chat-Tambo (Zoho People AI UI)** | Generative HR workspace that uses intent and persona to render structured UI components for HR tasks instead of free-form chat. | `Next.js` `Tambo` `Supabase` |
+| **🏆 AI-agents-assemble** | Platform with intelligent agents that analyze resumes, summarize job descriptions, suggest learning paths, and help match candidates to jobs. | `Python` `LangChain` `AI Agents` |
+| **💬 Text Analyzer & Screening Tool** | Tool for text analysis and automated screening workflows (classification, parsing, NLP). | `Python` `NLP` |
+| **🌐 Portfolio Frontend** | Modern developer portfolio with responsive UI and smooth navigation. | `HTML` `CSS` `JS` |
+| **🎙️ Live API Web Console** | Real-time WebSocket console for interacting with Gemini Live API. | `React` `TypeScript` `WebSockets` |
+| **🏥 Health Risk Prediction App** | Predicts health risks through ML models based on user input. | `Python` `Flask` `ML` |
+| **📄 Streamlit Resume Tracker** | HR-focused resume filtering and ranking tool. | `Python` `Streamlit` |
+| **📊 SyncAnalytica** | Data upload + analysis with auto insights. | `Python` `Streamlit` |
+| **😊 Text-to-Emoji Converter** | Converts text to emojis using LLM APIs. | `Python` `Gemini API` |
 
 </div>
 
