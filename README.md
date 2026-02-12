@@ -23,30 +23,35 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="28" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="28" />## About Me
 
 <table>
   <tr>
     <td width="60%" valign="top">
       <h3>👨‍💻 Sriharsha Velicheti</h3>
       <p>
-        <i>Generative AI Engineer & Data Scientist based in India 🇮🇳</i>
+        <i>Generative AI Engineer & AI Platform Developer at Data Smith AI · India 🇮🇳</i>
       </p>
       <p>
-        I am passionate about <b>bridging AI innovation with real-world impact</b>. My work focuses on building intelligent systems that turn data into actionable decisions.
+        I design and build <b>production-grade, cloud-native AI systems</b> that combine large language models, multimodal pipelines and scalable infrastructure to solve real enterprise problems.
+        My work focuses on <b>agentic systems, multimodal RAG, generative UI, and intelligent automation</b> across healthcare, HR and business operations.
       </p>
-      <br/>
-      <b>🚀 Current Focus</b>
+      <p>
+        I specialize in taking AI from prototype to production — building reliable backends, structured output pipelines, observability-ready services and deployment workflows using modern cloud platforms and Kubernetes.
+      </p>
+<br/>
+      <b>🚀 Current Focus (2026)</b>
       <ul>
-        <li>🔭 Building <b>Multimodal RAG Applications</b></li>
-        <li>🌱 Mastering <b>Full Stack Development</b></li>
-        <li>🤝 Open to <b>AI/ML Collaborations</b></li>
+        <li>🔭 Building <b>agentic and multimodal RAG platforms</b> for document intelligence, workflow automation and decision support</li>
+        <li>🧩 Developing <b>generative UI and intent-driven applications</b> (Chat-Tambo-style HR & enterprise workflows)</li>
+        <li>☁️ Architecting <b>cloud-native AI services</b> using Docker, Kubernetes and Google Cloud (Cloud Run, Jobs, CI/CD)</li>
+        <li>🤖 Creating <b>web automation & computer-use agents</b> for real-world operational tasks</li>
       </ul>
-      <b>🎯 2025 Goals</b>
+      <b>🎯 2026 Goals</b>
       <ul>
-        <li>✨ Launch impactful open-source AI projects</li>
-        <li>🏗️ Build production-ready AI applications</li>
-        <li>📚 Mentor aspiring AI engineers</li>
+        <li>✨ Open-source practical agent frameworks and production-ready RAG tooling</li>
+        <li>🏗️ Build and operate full-scale AI platforms used in real business workflows</li>
+        <li>📚 Mentor engineers on building reliable, secure and scalable GenAI systems</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -54,6 +59,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -189,27 +195,20 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" /> GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sriharsha8991&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" alt="GitHub Stats"/>
-  &nbsp;
- <img src="https://github-readme-streak-stats.herokuapp.com?user=sriharsha8991&theme=github-dark-blue&hide_border=true" height="160" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=sriharsha8991&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharsha8991&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=8" alt="Top Languages"/>
-</p>
+
+
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriharsha8991&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
 </p>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" /> GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sriharsha8991&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</p>
 
 
 <!-- FOOTER -->
